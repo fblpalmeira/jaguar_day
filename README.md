@@ -16,4 +16,4 @@ Shapes:
 
 - Marieb, K. Jaguars in the new millennium data set update. New York: Wildlife Conservation Society, 2006. 80p. WCS Working Paper. Available at [DATA BASIN](http://databasin.org).   
 
-- Zeller, K. Jaguars in the new millennium data set update: the state of the Jaguar in 2007. New York: Wildlife Conservation Society, 2007. 82p. WCS Report. 
+- Zeller, K. [Jaguars in the new millennium data set update: the state of the Jaguar in 2007](https://databasin.org/datasets/ab4e719799dd412485b4eb441c0221e7/). New York: Wildlife Conservation Society, 2007. 82p. WCS Report. 
