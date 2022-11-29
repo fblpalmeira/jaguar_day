@@ -12,6 +12,8 @@ Datapapers:
 
 Shapes:
 
+- IUCN (2012). [IUCN Red List of Threatened Species](https://www.iucnredlist.org/en). Version 2012.1. http://www.iucnredlist.org. 
+
 - Marieb, K. Jaguars in the new millennium data set update. New York: Wildlife Conservation Society, 2006. 80p. WCS Working Paper. Available at [DATA BASIN](http://databasin.org).   
 
 - Zeller, K. Jaguars in the new millennium data set update: the state of the Jaguar in 2007. New York: Wildlife Conservation Society, 2007. 82p. WCS Report. 
