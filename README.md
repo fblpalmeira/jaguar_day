@@ -8,7 +8,7 @@ Datapapers:
 
 - Morato, R. G. et al. 2018. [Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics](http://doi.org/10.1002/ecy.2379). Ecology.
 
-- Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](10.1002/ecy.3128). Ecology 101: e03128.
+- Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., Palmeira, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](10.1002/ecy.3128). Ecology 101: e03128.
 
 Shapes:
 
